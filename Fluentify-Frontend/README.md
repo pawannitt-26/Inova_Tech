@@ -1,4 +1,4 @@
-# LingQ
+# Fluentify
 
 ## Objective
 
