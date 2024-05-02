@@ -1,6 +1,6 @@
 # Fluentify Docs
 
-Docasaurus repo for docs for LingQ
+Docasaurus repo for docs for Fluentify
 
 ## Installation
 
